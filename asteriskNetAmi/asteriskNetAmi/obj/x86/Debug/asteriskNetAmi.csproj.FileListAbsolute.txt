@@ -1,0 +1,11 @@
+C:\Users\JOHAN\documents\visual studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JOHAN\documents\visual studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\JOHAN\documents\visual studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JOHAN\documents\visual studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JOHAN\documents\visual studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JOHAN\Documents\Visual Studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\bin\Debug\asteriskNetAmi.exe.config
+C:\Users\JOHAN\Documents\Visual Studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\bin\Debug\asteriskNetAmi.exe
+C:\Users\JOHAN\Documents\Visual Studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\bin\Debug\asteriskNetAmi.pdb
+C:\Users\JOHAN\Documents\Visual Studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\bin\Debug\Asterisk.NET.dll
+C:\Users\JOHAN\Documents\Visual Studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\obj\x86\Debug\asteriskNetAmi.exe
+C:\Users\JOHAN\Documents\Visual Studio 2010\Projects\asteriskNetAmi\asteriskNetAmi\obj\x86\Debug\asteriskNetAmi.pdb
